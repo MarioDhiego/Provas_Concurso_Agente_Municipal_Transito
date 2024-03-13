@@ -1,0 +1,34 @@
+
+
+```{=html}
+<style>
+body{text-align: justify}
+</style>
+```
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+# Apresentação {.unnumbered}
+
+No cenário atual, referente a Segurança Viária Global, Países como Inglaterra, Austrália e Estados Unidos, lideram os principais avanços no endurecimento das leis sobre Sinistros de Trânsito.
+
+Com isso, os diversos Países estão revendo a necessidade de ter profissionais capacitados para aplicar a legislação de trânsito, e definir estratégias para reduzir a morbimortalidade nas cidades dos interiores.
+
+Assim, o Brasil por meio do Governo Federal e Ministério Público, começaram a cobrar das Prefeituras que realizem concurso público para o cargo de **Agentes Municipais de Trânsito**, uma realidade muito aquem do que precisa.
+
+
+Nesse contexto, será disponibilizado uma coletânea de Itens elaborados por diversos institutos e professores, referente a temática **Legislação de Trânsito**, cobrada em diversas Provas de Concurso Público no Brasil, durante os ultimos cinco anos.
+
+
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::

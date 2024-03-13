@@ -1,0 +1,49 @@
+
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "**Provas de Concurso Público**"
+  reader-mode: true
+  subtitle: "**Agentes Municipais de Trânsito**"
+  date: "13/03/2024"
+  author:
+  - name: "**Mário Diego Rocha Valente**"
+    orcid: 0000-0001-7262-3336
+  - name: "**Analista de Trânsito**"
+  - name: "**mario.valente@detran.pa.gov.br**"
+    corresponding: true
+
+  page-footer:
+    left: |
+      Copyright: VALENTE - 2024
+    right: |
+      Construído <a href="https://quarto.org/">Pacote Quarto no R4.3</a>.
+  cover-image: fiscalização1.jpg
+  favicon: fiscalização1.jpg
+  site-url: https://www.detran.pa.gov.br/
+  repo-url : https://github.com/MarioDhiego/Estatistica_Municipal_Fapespa_Belem
+  repo-branch: main
+  repo-actions: [edit, issue]
+  downloads: [pdf, docx]
+  sharing: [twitter, facebook]
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - Capitulo3.qmd
+comments:
+  hypothesis: true
+bibliography: references.bib
+format:
+  html:
+    theme:
+      light: [blue,custom.scss]
+      dark:  [cyborg,custom.scss]
+    code-link: true
+    toc-title: Índice
+    toc-location: right
+
+

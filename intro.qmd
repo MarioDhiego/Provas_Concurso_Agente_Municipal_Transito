@@ -1,0 +1,58 @@
+
+```{=html}
+<style>
+body{text-align: justify}
+</style>
+```
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+# CTB - CAP II
+## Do Sistema Nacional de Trânsito
+
+ITEM 1: Qual é o órgão **Máximo Normativo** e **Consultivo**
+do Sistema Nacional de Trânsito (SNT):
+
+1. DENATRAN
+2. SENATRAN
+3. CONTRAN
+4. Ministério das Cidades
+5. Ministério dos Transportes
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+ITEM 2: Qual é o órgão **Máximo Executivo** do Sistema Nacional de Trânsito (SNT).
+
+1. DENIT
+2. DENATRAN
+3. CONTRAN
+4. Ministério das Cidades
+5. SENATRAN
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+ITEM 3: Quem pode assumir diretamente ou por delegação a execução total ou parcial das atividades do órgão executivo estadual (Detran) em caso de irregularidades:
+
+1. Os órgãos Municipais de Trânsito.
+2. O Ministério dos Transporte.
+3. DNIT
+4. DENATRAN
+5. SENATRAN, mediante aprovação do CONTRAN.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::

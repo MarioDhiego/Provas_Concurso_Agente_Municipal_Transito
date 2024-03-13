@@ -1,0 +1,58 @@
+
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+# CTB - CAP xv
+## Das Infrações
+
+
+ITEM 1: A fiscalização por videomonitoramento flagrou um veículo ultrapassando outro veículo pelo acostamento, tendo transitado pelo acostamento para realizar a manobra. Durante a lavratura do auto de infração de trânsito (AIT), o Agente de Trânsito identificou duas condutas infracionais, a primeira foi o fato de o veículo ultrapassar outro veículo pelo acostamento (art. 202, do CTB) e a segunda, a prática da infração de transitar com o veículo pelo acostamento (art. 193, do CTB), tendo lavrado apenas 01 (um) AIT, relativo à infração de ultrapassar pelo acostamento. O Agente não lavrou o segundo AIT, referente à infração do artigo 193, do CTB, com base na definição de infrações:
+
+1. Concomitantes
+2. Sucessivas
+3. Continuadas
+4. Concorrentes
+5. Condicionadas
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+ITEM 2: Ao realizar um patrulhamento viário de rotina, com o objetivo de garantir a segurança viária, os Agentes de Trânsito da AMC flagram um veículo avançando o sinal vermelho do semáforo. Ao realizarem o acompanhamento com a viatura, o mesmo veículo avança os sinais vermelhos dos semáforos de outros três cruzamentos consecutivos, totalizando quatro infrações iguais, relativas ao avanço de sinal vermelho do semáforo, regulamentada no artigo 208, do CTB, lavradas pelos Agentes. De acordo com o Manual Brasileiro de Fiscalização de Trânsito, os autos foram lavrados com base na definição de infrações:
+
+
+1. Concorrentes
+2. Continuadas
+3. Concomitantes
+4. Sucessivas
+5. Condicionadas
+
+
+
+
+
+
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+
+
