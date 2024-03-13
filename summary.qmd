@@ -16,3 +16,23 @@ body{text-align: justify}
 # CTB - CAP III
 ## Das Normas Gerais de Circulação e Conduta
 
+
+### **ITEM 1:** 
+
+Com relação às normas gerais de circulação e conduta estabelecidas pelo CTB, julgue os itens de 1 a 5 em **Certo** e **Errado**.
+
+1. Quando dois veículos, trafegando por fluxos que se cruzem e se aproximando de uma rotatória não sinalizada, o veículo que já estiver circulando na rotatória terá preferência.
+2. A circulação de veículos em passeios e calçadas é permitida apenas para acessar ou sair de imóveis, sendo considerada uma infração grave caso ocorra de maneira não autorizada.
+3. A ultrapassagem de um veículo em movimento deve ser realizada pela direita, a menos que o veículo à frente esteja indicando a intenção de virar à direita.
+4. Antes de realizar uma mudança lateral, o condutor deve ativar a luz indicadora de direção do veículo, sendo proibido utilizar gestos ou movimentos de braço para essa finalidade.
+5. O condutor que estiver prestes a entrar em uma via, vindo de um terreno adjacente a essa via, deve ceder a preferência aos veículos e pedestres que estejam transitando nela.
+
+
+
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::

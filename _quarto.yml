@@ -11,8 +11,9 @@ book:
   author:
   - name: "**Mário Diego Rocha Valente**"
     orcid: 0000-0001-7262-3336
-  - name: "**Analista de Trânsito**"
+  - name: "**Instrutor de Trânsito**"
   - name: "**mario.valente@detran.pa.gov.br**"
+  - name: "**Pix: 91 980607471**"
     corresponding: true
 
   page-footer:
@@ -34,6 +35,7 @@ book:
     - intro.qmd
     - summary.qmd
     - Capitulo3.qmd
+    - Anexo1.qmd
 comments:
   hypothesis: true
 bibliography: references.bib

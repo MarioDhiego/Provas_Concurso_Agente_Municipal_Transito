@@ -1,0 +1,82 @@
+
+
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+# CTB - ANEXO I
+## Dos Conceitos
+
+### **ITEM 1:**	
+
+O Código de Trânsito Brasileiro – CTB, em seu Anexo I - Conceitos e Definições, traz a definição para Agente da Autoridade de Trânsito (Redação dada pela Lei nº 14.229/2021), Trata-se do:
+
+1. Agente de Trânsito, Policial Federal, Agentes dos órgãos Policiais da Câmara dos Deputados e do Senado Federal (Lei nº 14071/2020 Art. 25-A) e Policial Militar quando designados pela Autoridade de Trânsito com circunscrição sob a via.
+2. Agente de Trânsito, Policial Rodoviário Federal, Policial Militar, Agentes dos órgãos Policiais da Câmara dos Deputados e do Senado Federal (Lei nº 14071/2020 Art. 25-A), quando designados pela Autoridade de Trânsito com circunscrição sob a via.
+3. Agente de Trânsito, Policial Rodoviário Estadual, Policial Militar, Agente de Fiscalização do DNIT.
+4. Agente de Trânsito, Policial Federal, Policial Militar, Agente de Fiscalização do DNIT.
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+### **ITEM 2:** 
+
+Em relação as Competências e Habilidades para se Tornar um Agente de Fiscalização de Trânsito, é primeiramente necessário ter vínculo com administração pública que o legitime, inciso 4º, artigo 280 do Código de Trânsito Brasileiro. Nesse contexto são requisitos fundamentais:
+
+1. Servidor Civil, Estatutário, Celetista, ou Policial Federal designado pela Autoridade de Trânsito Federal com circunscrição sob a via, mediante convênio, na forma prevista neste Código.
+2.	Servidor Civil, Estatutário, CLT, ou Policial Federal designado pela Autoridade de Trânsito Federal com circunscrição sob a via, mediante convênio, na forma prevista neste Código.
+3. Cidadão Civil, Estatutário, Celetista, ou Policial Federal designado pela Autoridade de Trânsito com circunscrição sob a via, mediante convênio, na forma prevista neste Código.
+4. Servidor Civil, Estatutário, Celetista, ou Policial Militar designado pela Autoridade de Trânsito com circunscrição sob a via, mediante convênio, na forma prevista neste Código.
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+### **ITEM 3:** 
+
+O Código de Trânsito Brasileiro - CTB, em seu Anexo I - Conceitos e Definições, traz a definição para o aparelho destinado à medição do teor alcoólico no ar alveolar. O referido aparelho é comumente utilizado pela autoridade de trânsito em fiscalizações de embriaguez ao volante de motoristas. Trata-se da(o) 
+
+1. Bafômetro
+2. Grafômetro
+3. Cruzamento
+4. Ciclomotor
+5. Etilômetro
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+
+### **ITEM 4:**	
+
+Considerando o Código de Trânsito Brasileiro – CTB, em seu Anexo I - Conceitos e Definições, traz o conceito de Patrulhamento Viário. Trata-se a função:
+
+1. Função exercida pelos Agentes de Trânsito e Polícias Militares com o objetivo de prevenir e reprimir atos relacionados com a segurança pública e de garantir obediência às normas relativas à segurança de trânsito, assegurando a livre circulação e evitando sinistros. (Redação dada pela Lei nº 14.599, de 2023);
+2. Função exercida pelos Agentes de Trânsito e Polícia Rodoviária Federal com o objetivo de prevenir e reprimir infrações penais no âmbito de sua competência e de garantir obediência às normas relativas à segurança de trânsito, de forma a assegurar a livre circulação e a prevenir sinistros. (Redação dada pela Lei nº 14.599, de 2023);
+3. Função exercida pelos Agentes de Trânsito dos órgãos e entidades executivos de trânsito e rodoviário, no âmbito de suas competências, com o objetivo de garantir a segurança viária nos termos do § 10 do art. 144 da Constituição Federal. (Incluído pela Lei nº 14.229, de 2021).
+4. Função exercida pelos Agentes de Trânsito e Polícia Federal com o objetivo de prevenir e reprimir infrações penais no âmbito de sua competência e de garantir obediência às normas relativas à segurança de trânsito, de forma a assegurar a livre circulação e a prevenir sinistros. (Redação dada pela Lei nº 14.599, de 2023);
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::

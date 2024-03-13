@@ -15,7 +15,27 @@ body{text-align: justify}
 # CTB - CAP II
 ## Do Sistema Nacional de Trânsito
 
-ITEM 1: Qual é o órgão **Máximo Normativo** e **Consultivo**
+
+### **ITEM 1:** 
+
+O Código de Trânsito Brasileiro (CTB), regido pela Lei 9.503/1997, traz disposições acerca do Sistema Nacional de Trânsito, tais como sua composição, competência e objetivos. Sob o prisma das normas nacionais vigentes, julgue os itens de 1 a 5 em **Certo** e **Errado**.
+
+
+1. Entre os objetivos fundamentais do Sistema Nacional de Trânsito, está a padronização de critérios técnicos, financeiros e administrativos para a condução das atividades de trânsito. Isso é alcançado por meio do estabelecimento de normas e procedimentos.
+2. O Sistema Nacional de Trânsito é composto pelo Conselho Nacional de Trânsito (Conatran), pelo Departamento Nacional de Trânsito (Denatran) e pelos Conselhos Estaduais de Trânsito (Cetran), incluindo o do Distrito Federal (Contrandife). 
+3. Compete ao Ministério dos Transportes nomear o responsável pela coordenação máxima do Sistema Nacional de Trânsito, ao qual o Contran estará vinculado e o órgão máximo executivo de trânsito da União estará subordinado
+4. No curso de suas ações, as entidades de trânsito pertencentes ao Sistema Nacional de Trânsito deverão dar prioridade à defesa da vida, incluindo a preservação da saúde e do meio-ambiente.
+5. Entre as finalidades do Sistema Nacional de Trânsito, está o desempenho de atividades relacionadas a policiamento, fiscalização e aplicação de penalidades.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+### **ITEM 2:** 
+
+Qual é o órgão *Máximo Normativo* e *Consultivo*
 do Sistema Nacional de Trânsito (SNT):
 
 1. DENATRAN
@@ -30,7 +50,9 @@ do Sistema Nacional de Trânsito (SNT):
 :::
 
 
-ITEM 2: Qual é o órgão **Máximo Executivo** do Sistema Nacional de Trânsito (SNT).
+### **ITEM 3:** 
+
+Qual é o órgão *Máximo Executivo* do Sistema Nacional de Trânsito (SNT).
 
 1. DENIT
 2. DENATRAN
@@ -44,13 +66,72 @@ ITEM 2: Qual é o órgão **Máximo Executivo** do Sistema Nacional de Trânsito
 :::
 
 
-ITEM 3: Quem pode assumir diretamente ou por delegação a execução total ou parcial das atividades do órgão executivo estadual (Detran) em caso de irregularidades:
+### **ITEM 4:** 
+
+Quem pode assumir diretamente ou por delegação a execução total ou parcial das atividades do órgão executivo estadual (Detran) em caso de irregularidades:
 
 1. Os órgãos Municipais de Trânsito.
 2. O Ministério dos Transporte.
 3. DNIT
 4. DENATRAN
 5. SENATRAN, mediante aprovação do CONTRAN.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+
+### **ITEM 5:** 
+
+Quando um Agente Municipal de Trânsito exerce o poder de polícia, qual atributo está empregando ao determinar a remoção de um veículo estacionado em local proibido.
+
+
+1. Discricionariedade.
+2. Hierarquia.
+3. Coercibilidade.
+4. Autotutela
+5. Direcionariedade.
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+### **ITEM 6:** 
+
+O conceito de “Trânsito”, definido no artigo 1º do Código de Trânsito Brasileiro - CTB, considera a utilização das vias terrestres **APENAS** por:
+
+
+1. Pessoas.
+2. Veículos.
+3. Veículos e Animais.
+4. Pessoas e Veículos.
+5. Pessoa, Veículos e Animais.
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+### **ITEM 7:** 
+
+Leia a afirmativa a seguir:
+
+O __________ é o conjunto de órgãos e entidades da União, dos Estados, do Distrito Federal e dos Municípios que tem por finalidade o exercício das atividades de planejamento, administração, normatização, pesquisa, registro e licenciamento de veículos, formação, habilitação e reciclagem de condutores, educação, engenharia, operação do sistema viário, policiamento, fiscalização, julgamento de infrações e de recursos e aplicação de penalidades.
+
+1. CONTRAN
+2. DENATRAN
+3. SISTEMA NACIONAL DE TRÂNSITO
+4. CETRAN
+5. CONTRANDIFE
+
 
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
