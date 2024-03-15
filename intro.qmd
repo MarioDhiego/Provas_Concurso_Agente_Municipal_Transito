@@ -27,6 +27,17 @@ O Código de Trânsito Brasileiro (CTB), regido pela Lei 9.503/1997, traz dispos
 4. No curso de suas ações, as entidades de trânsito pertencentes ao Sistema Nacional de Trânsito deverão dar prioridade à defesa da vida, incluindo a preservação da saúde e do meio-ambiente.
 5. Entre as finalidades do Sistema Nacional de Trânsito, está o desempenho de atividades relacionadas a policiamento, fiscalização e aplicação de penalidades.
 
+
+::: {.callout-tip collapse="true"}
+"**Gabarito :  **".
+
+
+
+
+:::
+
+
+
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
@@ -44,6 +55,12 @@ do Sistema Nacional de Trânsito (SNT):
 4. Ministério das Cidades
 5. Ministério dos Transportes
 
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 3**".
+:::
+
+
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
@@ -60,6 +77,12 @@ Qual é o órgão *Máximo Executivo* do Sistema Nacional de Trânsito (SNT).
 4. Ministério das Cidades
 5. SENATRAN
 
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 5**".
+:::
+
+
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
@@ -75,6 +98,12 @@ Quem pode assumir diretamente ou por delegação a execução total ou parcial d
 3. DNIT
 4. DENATRAN
 5. SENATRAN, mediante aprovação do CONTRAN.
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 5**".
+:::
+
 
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
@@ -94,7 +123,9 @@ Quando um Agente Municipal de Trânsito exerce o poder de polícia, qual atribut
 4. Autotutela
 5. Direcionariedade.
 
-
+::: {.callout-tip collapse="true"}
+"**Gabarito: 3**".
+:::
 
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
@@ -114,6 +145,11 @@ O conceito de “Trânsito”, definido no artigo 1º do Código de Trânsito Br
 5. Pessoa, Veículos e Animais.
 
 
+::: {.callout-tip collapse="true"}
+"**Gabarito: 5**".
+:::
+
+
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
@@ -131,6 +167,59 @@ O __________ é o conjunto de órgãos e entidades da União, dos Estados, do Di
 3. SISTEMA NACIONAL DE TRÂNSITO
 4. CETRAN
 5. CONTRANDIFE
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 3**".
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+
+### **ITEM 8:** 
+
+De acordo com o Código de Trânsito Brasileiro (CTB), compete às juntas administrativas de recursos de infrações de infrações:
+
+
+1. Estabelecer as Normas regulamentares referidas no CTB e as diretrizes da Política Nacional de Trânsito.
+2. Responder às consultas que lhe forem formuladas relativas à aplicação da legislação de trânsito.
+3. Estabelecer e normalizar os procedimentos para a imposição, a arrecadação e a compensação 
+4. Encaminhar aos orgãos e entidas executivas de trânsito e executivos rodoviários informações a respeito de problemas observados nas autuações e apontados em recursos e que se repitam sistematicamente.
+5. Aprovar, complementar ou alterar os dispositivos de sinalização e os dispositivos e os equipamentos de trânsito.
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 4**".
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+
+### **ITEM 9:** 
+
+
+1. ( ) Articular-se com os órgãos dos Sistemas Nacionais de Trânsito, de Transporte e de Segurança Pública, objetivando o combate à violência no trânsito, promovendo, coordenando e executando o controle de ações para a preservação do ordenamento e da segurança do trânsito.
+2. ( ) Apurar, prevenir e reprimir a prática de atos de improbidade contra a fé pública, o patrimônio, ou a administração pública ou privada, referentes à segurança do trânsito.
+3. ( ) Estimular e orientar a execução de campanhas educativas de trânsito.
+4. ( ) Supervisionar a implantação de projetos e programas relacionados com a engenharia, educação, administração, policiamento e fiscalização do trânsito e outros, visando à uniformidade de procedimento
+5. ( ) Encaminhar aos órgãos e entidades executivos de trânsito e executivos rodoviários informações sobre problemas observados nas autuações e apontados em recursos, e que se repitam sistematicamente.
+
+Marque a opção que apresenta a sequência CORRETA.
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: V-V-F-V-F**".
+:::
+
+
 
 
 ::: progress
