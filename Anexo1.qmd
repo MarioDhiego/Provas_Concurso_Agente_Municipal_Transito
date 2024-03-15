@@ -25,6 +25,12 @@ O Código de Trânsito Brasileiro – CTB, em seu Anexo I - Conceitos e Definiç
 4. Agente de Trânsito, Policial Federal, Policial Militar, Agente de Fiscalização do DNIT.
 
 
+::: {.callout-tip collapse="true"}
+"**Gabarito: 2**".
+:::
+
+
+
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
@@ -36,10 +42,14 @@ O Código de Trânsito Brasileiro – CTB, em seu Anexo I - Conceitos e Definiç
 Em relação as Competências e Habilidades para se Tornar um Agente de Fiscalização de Trânsito, é primeiramente necessário ter vínculo com administração pública que o legitime, inciso 4º, artigo 280 do Código de Trânsito Brasileiro. Nesse contexto são requisitos fundamentais:
 
 1. Servidor Civil, Estatutário, Celetista, ou Policial Federal designado pela Autoridade de Trânsito Federal com circunscrição sob a via, mediante convênio, na forma prevista neste Código.
-2.	Servidor Civil, Estatutário, CLT, ou Policial Federal designado pela Autoridade de Trânsito Federal com circunscrição sob a via, mediante convênio, na forma prevista neste Código.
+2. Servidor Civil, Estatutário, CLT, ou Policial Federal designado pela Autoridade de Trânsito Federal com circunscrição sob a via, mediante convênio, na forma prevista neste Código.
 3. Cidadão Civil, Estatutário, Celetista, ou Policial Federal designado pela Autoridade de Trânsito com circunscrição sob a via, mediante convênio, na forma prevista neste Código.
 4. Servidor Civil, Estatutário, Celetista, ou Policial Militar designado pela Autoridade de Trânsito com circunscrição sob a via, mediante convênio, na forma prevista neste Código.
 
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 4**".
+:::
 
 
 ::: progress
@@ -58,6 +68,11 @@ O Código de Trânsito Brasileiro - CTB, em seu Anexo I - Conceitos e Definiçõ
 4. Ciclomotor
 5. Etilômetro
 
+::: {.callout-tip collapse="true"}
+"**Gabarito: 5**".
+:::
+
+
 
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
@@ -74,6 +89,12 @@ Considerando o Código de Trânsito Brasileiro – CTB, em seu Anexo I - Conceit
 2. Função exercida pelos Agentes de Trânsito e Polícia Rodoviária Federal com o objetivo de prevenir e reprimir infrações penais no âmbito de sua competência e de garantir obediência às normas relativas à segurança de trânsito, de forma a assegurar a livre circulação e a prevenir sinistros. (Redação dada pela Lei nº 14.599, de 2023);
 3. Função exercida pelos Agentes de Trânsito dos órgãos e entidades executivos de trânsito e rodoviário, no âmbito de suas competências, com o objetivo de garantir a segurança viária nos termos do § 10 do art. 144 da Constituição Federal. (Incluído pela Lei nº 14.229, de 2021).
 4. Função exercida pelos Agentes de Trânsito e Polícia Federal com o objetivo de prevenir e reprimir infrações penais no âmbito de sua competência e de garantir obediência às normas relativas à segurança de trânsito, de forma a assegurar a livre circulação e a prevenir sinistros. (Redação dada pela Lei nº 14.599, de 2023);
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 3**".
+:::
+
+
 
 
 ::: progress

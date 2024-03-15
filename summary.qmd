@@ -27,7 +27,9 @@ Com relação às normas gerais de circulação e conduta estabelecidas pelo CTB
 4. Antes de realizar uma mudança lateral, o condutor deve ativar a luz indicadora de direção do veículo, sendo proibido utilizar gestos ou movimentos de braço para essa finalidade.
 5. O condutor que estiver prestes a entrar em uma via, vindo de um terreno adjacente a essa via, deve ceder a preferência aos veículos e pedestres que estejam transitando nela.
 
-
+::: {.callout-tip collapse="true"}
+"**Gabarito :  **".
+:::
 
 
 

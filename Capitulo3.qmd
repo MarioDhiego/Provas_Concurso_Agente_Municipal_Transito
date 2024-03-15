@@ -26,6 +26,9 @@ A fiscalização por videomonitoramento flagrou um veículo ultrapassando outro 
 4. Concorrentes
 5. Condicionadas
 
+::: {.callout-tip collapse="true"}
+"**Gabarito :  4**".
+:::
 
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
@@ -40,11 +43,13 @@ Ao realizar um patrulhamento viário de rotina, com o objetivo de garantir a seg
 
 1. Concorrentes
 2. Continuadas
-3. Concomitantes
-4. Sucessivas
+3. Sucessivas
+4. Concomitantes
 5. Condicionadas
 
-
+::: {.callout-tip collapse="true"}
+"**Gabarito :  4**".
+:::
 
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
@@ -52,5 +57,27 @@ Ao realizar um patrulhamento viário de rotina, com o objetivo de garantir a seg
 :::
 
 
+### **ITEM 3:** 
+
+O Agente da Autoridade de Trânsito deve priorizar suas ações no sentido de coibir a prática das infrações de trânsito, devendo tratar a todos com urbanidade e respeito, sem, contudo, omitir-se das providências que a lei lhe determina. Logo, ao constatar o cometimento da infração, deverá:
 
 
+1. Lavrar o respectivo auto e adotar as medidas penais cabíveis.
+2. Aplicar a multa e as penalidades previstas no Código de
+Trânsito Brasileiro.
+3. Remover o veículo quando não for possível sanar a falha no
+local da infração.
+4. Apreender o veículo não sendo efetuada a regularização no
+prazo determinado.
+5. Lavrar o respectivo auto e adotar as medidas administrativas
+e penais cabíveis
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito :  5**".
+:::
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::

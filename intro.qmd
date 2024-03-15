@@ -30,10 +30,6 @@ O Código de Trânsito Brasileiro (CTB), regido pela Lei 9.503/1997, traz dispos
 
 ::: {.callout-tip collapse="true"}
 "**Gabarito :  **".
-
-
-
-
 :::
 
 
@@ -221,8 +217,9 @@ Marque a opção que apresenta a sequência CORRETA.
 
 
 
-
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
 :::
+
+
