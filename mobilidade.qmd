@@ -1,0 +1,159 @@
+
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+  
+# Lei de Mobilidade Urbana Nº 12.587
+
+![<https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12587.htm>]
+
+## Disposições Gerais
+### **ITEM 1:**	
+
+De acordo com o Art. 4º da Lei de Mobilidade
+Urbana, o que È considerado transporte urbano? 
+
+1. ( ) Apenas o transporte público utilizado para o deslocamento de pessoas nas cidades.
+2. ( ) Apenas o transporte privado utilizado para o deslocamento de pessoas nas cidades.
+3. ( ) Apenas o transporte de cargas utilizado nas cidades.
+4. ( ) O conjunto dos modos e serviços de transporte apenas público utilizados para o deslocamento de pessoas nas cidades.
+5. ( ) O conjunto dos modos e serviços de transporte público e privado utilizados para o deslocamento de pessoas e cargas nas cidades. 
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 5**".
+:::
+  
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+
+### **ITEM 2:**
+
+O que é transporte público coletivo intermunicipal de caráter urbano, de acordo com a Lei de Mobilidade Urbana?
+
+1. ( ) Serviço de transporte píblico exclusivo
+para áreas rurais entre MunicÌpios.
+2. ( ) Transporte privado de passageiros entre
+Municípios vizinhos.
+3. ( ) Transporte público individual de caráter
+urbano entre Municípios.
+4. ( ) Serviços de transporte público coletivo
+entre Municípios que tenham contiguidade nos
+seus perímetros urbanos.
+5. ( ) Serviço de transporte público internacional
+entre Municípios com distâncias consideráveis. 
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 4**".
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+### **ITEM 3:**
+
+O que são modos de transporte não motorizado,
+de acordo com a Lei de Mobilidade Urbana?
+
+
+1. ( ) Modalidades de transporte exclusivas para
+veículos motorizados.
+2. ( ) Modalidades de transporte que utilizam
+apenas veículos elétricos.
+3. ( ) Modalidades de transporte que envolvem o
+uso de tração animal e veículos motorizados.
+4. ( ) Modalidades que se utilizam do esforço
+humano ou tração animal.
+5. ( ) Modalidades de transporte que utilizam
+apenas veículos movidos a combustíveis fósseis.
+
+
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 4**".
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+### **ITEM 4:**
+
+O que é acessibilidade, de acordo com a Lei de
+Mobilidade Urbana? 
+
+
+1. ( ) Ações que restringem o acesso de pessoas
+com deficiÍncia aos espaços públicos.
+2. ( ) Restrição de autonomia nos deslocamentos
+desejados, sem respeitar a legislação em vigor.
+3. ( ) Facilidade disponibilizada às pessoas que
+possibilite a todos autonomia nos deslocamentos
+desejados, respeitando-se a legislação em vigor;
+4. ( ) Medidas que dificultam o acesso a
+transporte público e privado para pessoas com
+mobilidade reduzida.
+5. ( ) Acesso prioritário apenas para pessoas que
+possuem certas condições físicas ou de mobilidade.
+
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 3**".
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+A PolÌtica Nacional de Mobilidade Urbana está fundamentada em alguns princípios, entre eles:
+
+
+1. I - acessibilidade universal;
+2. II - desenvolvimento sustentável das cidades, nas
+dimensões socioeconômicas e ambientais;
+3. III- integração entre os modos e serviços de
+transporte urbano;
+
+Estão corretas as afirmativas:
+
+1. ( ) I, II e III.
+2. ( ) II apenas
+3. ( ) I apenas
+4. ( ) III apenas 
+5. ( ) I e II, apenas
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 5**".
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::

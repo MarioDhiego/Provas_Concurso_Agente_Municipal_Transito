@@ -1,13 +1,12 @@
-
 project:
   type: book
   output-dir: docs
 
 book:
-  title: "**Provas de Concurso Público**"
+  title: "**Bateria de Provas de Concurso Público**"
   reader-mode: true
-  subtitle: "**Agentes Municipais de Trânsito**"
-  date: "16/03/2024"
+  subtitle: "**Público: Agentes Municipais de Trânsito**"
+  date: "18/03/2024"
   author:
   - name: "**Mário Diego Rocha Valente**"
     orcid: 0000-0001-7262-3336
@@ -38,6 +37,7 @@ book:
     - Capitulo3.qmd
     - crimes.qmd
     - Anexo1.qmd
+    - mobilidade.qmd
 comments:
   hypothesis: true
 bibliography: references.bib

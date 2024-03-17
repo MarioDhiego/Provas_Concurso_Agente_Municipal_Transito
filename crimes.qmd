@@ -64,3 +64,34 @@ erro máximo admissível do medidor, igual ou superior a
 ::: {.progress-bar style="width: 100%;"}
 :::
 :::
+
+### **ITEM 3:**  
+
+No atendimento de um sinistro de trânsito, os Agentes do órgão municipal de trânsito verificaram que o condutor de um dos veículos envolvidos apresentava sinais de alteração da capacidade psicomotora, confirmada posteriormente por meio do teste de etilômetro, que registrou uma medição igual a 0,33 miligrama de álcool por litro de ar alveolar expirado (0,33 mg/L), descontado o erro máximo admissível.
+
+Escreva V ou F, conforme seja verdadeiro ou falso o que se afirmar nos itens abaixo:
+
+1. ( ) Foi caracterizado, no caso citado acima, o crime previsto no artigo 306, do CTB: Conduzir veículo automotor com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência.
+2. ( ) Houve o cometimento da infração prevista no artigo 165, do CTB: Dirigir sob a influência de álcool ou de qualquer outra substância psicoativa que determine dependência; no caso do condutor do veículo que se submeteu ao teste do etilômetro.
+3. ( ) As penas previstas no artigo 306, do CTB, são detenção, de seis meses a três anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor.
+4. ( ) A infração do artigo 165 tem como penalidades a multa (dez vezes) e suspensão do direito de dirigir por 12 (doze) meses.
+
+Está correta, de cima para baixo, a seguinte sequência:
+
+1. ( ) F, V, V, F.
+2. ( ) V, V, F, V.
+3. ( ) F, V, V, V.
+4. ( ) V, F, V, V.
+
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito :  3**".
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+

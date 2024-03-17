@@ -119,3 +119,56 @@ centímetros).
 ::: {.progress-bar style="width: 100%;"}
 :::
 :::
+
+
+### **ITEM 5:** 
+
+Complete a lacuna de acordo com as Resoluções do Conselho Nacional de Trânsito.
+
+_______________ documento que dá início ao
+processo administrativo para imposição de
+punição, em decorrência de alguma infração à
+legislação de trânsito;
+
+1. ( ) Notificação da Autuação (NA).
+2. ( ) Auto de Infração de Trânsito (AIT).
+3. ( ) Notificação da Penalidade (NP).
+4. ( ) Òrgão autuador.
+5. ( ) Òrgão arrecadador.
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito :  2**".
+:::
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+### **ITEM 6:** 
+
+Complete a lacuna de acordo com as Resoluções
+do Conselho Nacional de Trânsito.
+
+
+____________ procedimento que dá ciència ao
+proprietário do veículo de que foi cometida uma
+infração de trânsito com seu veículo;
+
+1. ( ) Auto de Infração de Trânsito (AIT)
+2. ( ) Notificação da Infração (NI)
+3. ( ) CONTRAN
+4. ( ) Notificação da Penalidade (NP)
+5. ( ) Notificação da Autuação (NA)
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito :  5**".
+:::
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
