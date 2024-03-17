@@ -11,9 +11,9 @@
 :::
 :::
   
-# Lei de Mobilidade Urbana Nº 12.587
+# Lei de Mobilidade Urbana
 
-![<https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12587.htm>]
+[Lei Nº 12.587](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12587.htm>)
 
 ## Disposições Gerais
 ### **ITEM 1:**	
@@ -130,13 +130,15 @@ possuem certas condições físicas ou de mobilidade.
 :::
 
 
-A PolÌtica Nacional de Mobilidade Urbana está fundamentada em alguns princípios, entre eles:
+### **ITEM 5:**
+
+A Política Nacional de Mobilidade Urbana está fundamentada em alguns princípios, entre eles:
 
 
-1. I - acessibilidade universal;
-2. II - desenvolvimento sustentável das cidades, nas
+1. I - Acessibilidade universal;
+2. II - Desenvolvimento sustentável das cidades, nas
 dimensões socioeconômicas e ambientais;
-3. III- integração entre os modos e serviços de
+3. III- Integração entre os modos e serviços de
 transporte urbano;
 
 Estão corretas as afirmativas:
@@ -150,6 +152,30 @@ Estão corretas as afirmativas:
 
 ::: {.callout-tip collapse="true"}
 "**Gabarito: 5**".
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+### **ITEM 6:**
+
+O Plano de Mobilidade Urbana é o instrumento de efetivação da Política Nacional de Mobilidade Urbana.
+
+De acordo com a **Lei nº 12.587/2012**, são obrigados a elaborar Plano de Mobilidade Urbana os Municípios com população superior a:
+
+1. ( ) 15.000 habitantes.
+2. ( ) 20.000 habitantes.
+3. ( ) 25.000 habitantes.
+4. ( ) 50.000 habitantes.
+5. ( ) 100.000 habitantes.
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 2**".
 :::
 
 

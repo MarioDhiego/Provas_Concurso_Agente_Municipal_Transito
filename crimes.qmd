@@ -95,3 +95,94 @@ Está correta, de cima para baixo, a seguinte sequência:
 :::
 :::
 
+
+### **ITEM 4:**  
+
+
+Considere a situação hipotética narrada a seguir para responder às próximas duas questões:
+
+João saiu embriagado de um bar e passou a
+dirigir seu Corcel II 1979 com som em alto volume
+pela avenida principal de sua cidade. Alguns
+quilômetros à frente, João avistou James, um
+cidadão inglês desafeto seu, transitando por uma
+calçada e, com o intento de tirar-lhe a vida, acelerou
+e jogou o carro contra o homem, que veio a falecer
+três horas depois, no hospital, em decorrência das
+lesões do impacto.
+
+#### **ITEM 4.1:**  
+
+De acordo com as disposições do **Código de Trânsito Brasileiro**,
+assinale a alternativa correta:
+
+
+1. ( ) Considera-se praticado o crime por João no momento do falecimento da vítima, três horas depois do atropelamento.
+2. ( ) Em razão de a vítima ter nacionalidade inglesa, aplicar-se-á sobre o caso a lei penal inglesa.
+3. ( ) Se caso João se arrependesse de sua intenção a tempo de manobrar ou frear o carro, evitando, com isso, o falecimento de James, continuaria a responder pelos atos praticados e pelos incompletos.
+4. ( ) De acordo com a situação narrada, João responderá por crime doloso.
+5. ( ) De acordo com a situação narrada, João responderá por crime culposo.
+
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito :  5**".
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+#### **ITEM 4.2:**  
+
+De acordo com as disposições do **Código de Processo Penal**, assinale a alternativa correta:
+
+
+1. ( ) Caso o Ministério Público não promova a ação penal contra João no prazo legal, aquele a quem couber representar James poderá promover ação privada no prazo de 2 (dois) anos, a contar do dia em que se esgotar o prazo para o oferecimento da denúncia.
+2. ( ) Uma vez iniciada a ação penal contra João, cabe ao Ministério Público decidir se a continua ou dela desiste a qualquer momento.
+3. D) É vedado o arquivamento do inquérito policial, em qualquer hipótese.
+4. ( ) Em razão do falecimento de James, o direito de
+representá-lo passará ao seu cônjuge, ascendente,
+descendente ou irmão.
+5. ( ) João poderá ser beneficiado por acordo de
+não persecução penal, pois este tipo de acordo pode
+ser realizado sempre que o Ministério Público
+entender conveniente, independente do crime
+praticado.
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito :  4**".
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+### **ITEM 5:**  
+
+Aos crimes cometidos na direção de veículos automotores previstos no CTB aplicam-se subsidiariamente as normas gerais do Código Penal, do Código de Processo Penal, bem como a Lei nº 9.099/1995, no que couber. A respeito das
+disposições legais sobre os crimes de trânsito, julgue os itens de 1 a 5
+
+1. ( ) A utilização de veículo sem placa ou com placa falsa é uma circunstância que sempre agrava a penalidade do crime de trânsito.
+2. ( ) O condutor de veículo que, por ocasião de sinistro, deixa de prestar socorro à vítima ou não solicita auxílio da autoridade pública, exime-se do crime de trânsito caso comprove uma justa causa para a omissão.
+3. ( ) Nos casos de homicídio culposo cometido na direção de veículo automotor, a pena pode ser duplicada caso o agente não possua CNH ou permissão para dirigir.
+4. ( ) A prática que consiste em trafegar em velocidade incompatível com a segurança nas imediações de escolas, gerando perigo de dano, configura crime de trânsito sujeito a pena de detenção de seis meses a um ano, ou multa.
+5. ( ) A modificação deliberada do estado de um veículo envolvido em um acidente automobilístico com vítima, com o propósito de induzir a erro o agente policial, constitui uma circunstância agravante nos crimes de trânsito, resultando em aumento da pena.
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito :  C-E-E-C-E**".
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::

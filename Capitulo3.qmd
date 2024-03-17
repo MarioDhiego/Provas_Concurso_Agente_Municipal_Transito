@@ -172,3 +172,34 @@ infração de trânsito com seu veículo;
 ::: {.progress-bar style="width: 100%;"}
 :::
 :::
+
+
+### **ITEM 7:** 
+
+O Agente de Trânsito tem como responsabilidade, dentre outras, exercer poder de Polícia de Trânsito, desenvolver atividades destinadas à melhoria da circulação, atuando como facilitador da mobilidade urbana ou rodoviária, baseando seu trabalho, dentre outras, nos princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência, sendo suas atribuições, exceto:
+
+1. ( ) Lavrar autos de infração no exercício das atividades
+de fiscalização de trânsito e transporte incluindo a
+fiscalização eletrônica, com base no Código de
+Trânsito Brasileiro, legislações municipais e
+normativas complementares.
+2. ( ) Utilizar-se dos instrumentos de trabalho, conduzir
+veículos e motocicletas, quando habilitado e
+autorizado, no estrito exercício das atribuições do
+cargo.
+3. ( ) Efetuar levantamento de sinistros independente de
+estar investido da função.
+3. ( ) Desenvolver atividades de monitoramento do tráfego
+de veículos e operação de trânsito.
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito :  3**".
+:::
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+

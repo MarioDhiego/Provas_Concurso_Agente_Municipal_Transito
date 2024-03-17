@@ -1,4 +1,5 @@
 
+
 ```{=html}
 <style>
 body{text-align: justify}
@@ -23,13 +24,13 @@ O Código de Trânsito Brasileiro (CTB), regido pela Lei 9.503/1997, traz dispos
 
 1. Entre os objetivos fundamentais do Sistema Nacional de Trânsito, está a padronização de critérios técnicos, financeiros e administrativos para a condução das atividades de trânsito. Isso é alcançado por meio do estabelecimento de normas e procedimentos.
 2. O Sistema Nacional de Trânsito é composto pelo Conselho Nacional de Trânsito (Conatran), pelo Departamento Nacional de Trânsito (Denatran) e pelos Conselhos Estaduais de Trânsito (Cetran), incluindo o do Distrito Federal (Contrandife). 
-3. Compete ao Ministério dos Transportes nomear o responsável pela coordenação máxima do Sistema Nacional de Trânsito, ao qual o Contran estará vinculado e o órgão máximo executivo de trânsito da União estará subordinado
+3. Compete ao Ministério dos Transportes nomear o responsável pela coordenação máxima do Sistema Nacional de Trânsito, ao qual o Contran estará vinculado e o órgão máximo executivo de trânsito da União estará subordinado.
 4. No curso de suas ações, as entidades de trânsito pertencentes ao Sistema Nacional de Trânsito deverão dar prioridade à defesa da vida, incluindo a preservação da saúde e do meio-ambiente.
 5. Entre as finalidades do Sistema Nacional de Trânsito, está o desempenho de atividades relacionadas a policiamento, fiscalização e aplicação de penalidades.
 
 
 ::: {.callout-tip collapse="true"}
-"**Gabarito :  **".
+"**Gabarito :  C-E-E-C-C**".
 :::
 
 
@@ -231,30 +232,12 @@ Marque a opção que apresenta a sequência CORRETA.
 
 ### **ITEM 10:** 
 
-O Código de Trânsito Brasileiro, Lei n. 9.503, de
-23 de setembro de 1997, estabelece a
-competência dos Conselhos Estaduais de
-Trânsito (Cetran) e do Conselho de Trânsito do
-Distrito Federal (Contrandife). Diante do
-exposto, analise as afirmativas a seguir
+O Código de Trânsito Brasileiro, Lei n. 9.503, de 23 de setembro de 1997, estabelece a competência dos Conselhos Estaduais de Trânsito (Cetran) e do Conselho de Trânsito do Distrito Federal (Contrandife). Diante do exposto, analise as afirmativas a seguir:
 
-1. É competência do Cetran e do Contradife
-responder a consultas relativas à aplicação da
-legislação e dos procedimentos normativos de
-trânsito.
-2. É competência do Cetran e do Contradife
-estimular e orientar a execução de campanhas
-educativas de trânsito.
-3. É competência do Cetran e do Contradife
-fiscalizar o nível de emissão de poluentes e
-ruído produzidos pelos veículos automotores ou
-pela sua carga, além de dar apoio, quando
-solicitado, às ações específicas dos órgãos
-ambientais.
-4. É competência do Cetran e do Contradife indicar
-um representante para compor a comissão
-examinadora de candidatos portadores de
-deficiência física à habilitação para conduzir veículos automotores.
+1. É competência do Cetran e do Contradife responder a consultas relativas à aplicação da legislação e dos procedimentos normativos de trânsito.
+2. É competência do Cetran e do Contradife estimular e orientar a execução de campanhas educativas de trânsito.
+3. É competência do Cetran e do Contradife fiscalizar o nível de emissão de poluentes e ruído produzidos pelos veículos automotores ou pela sua carga, além de dar apoio, quando solicitado, às ações específicas dos órgãos ambientais.
+4. É competência do Cetran e do Contradife indicar um representante para compor a comissão examinadora de candidatos portadores de deficiência física à habilitação para conduzir veículos automotores.
 
 
 Estão Corretas as Afirmativas:
@@ -302,9 +285,87 @@ Escolha a opção que preenche a lacuna:
 :::
 
 
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+
+### **ITEM 12:** 
+
+Compete aos órgãos e entidades executivos rodoviários da União, dos Estados, do Distrito Federal e dos Municípios, no âmbito de sua circunscrição:
+
+1. ( ) Executar a fiscalização de trânsito, quando e conforme convênio firmado, como agente do órgão ou entidade executivo de trânsito ou executivos rodoviários, concomitantemente com os demais agentes credenciados;
+2. ( ) Regulamentar a velocidade máxima permitida para a
+via, a ser indicada por meio de sinalização.
+3. ( ) Regulamentar os dispositivos de alarme sonoro e
+iluminação intermitente previstos em lei;
+4. ( ) Regulamentar a sinalização vertical e horizontal previstos em lei;
+5. ( ) Coletar dados e elaborar estudos sobre os sinistros de trânsito e suas causas.
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 5**".
+:::
+
 
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
 :::
+
+
+
+
+### **ITEM 13:** 
+
+A Concessão, Permissão ou Autorização para prestação de serviços de transporte coletivo e individual, conforme o caso, com exceção das modalidades de Fretamento e Moto-Frete, será outorgada por ato:
+
+
+1. ( ) Do Diretor do Departamento Municipal de Trânsito e Transporte.
+2. ( ) Do Presidente da Câmara dos Vereadores do Município.
+3. ( ) Do Chefe do Poder Executivo Municipal.
+4. ( ) Da Secretaria de Segurança Pública e Mobilidade
+Urbana.
+
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 3**".
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+### **ITEM 14:** 
+
+Marque a única alternativa com órgão/entidade que não compõe o Sistema Nacional de Trânsito:
+
+1. ( ) Polícia Rodoviária Federal.
+2. ( ) Conselho Nacional de Trânsito - CONTRAN.
+3. ( ) Órgãos e entidades executivos de trânsito da União,
+dos Estados, do Distrito Federal e dos Municípios.
+4. ( ) Polícia Federal.
+5. ( ) Polícias Militares dos Estados, do Distrito Federal e
+dos Municípios.
+
+
+
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 5**".
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
 

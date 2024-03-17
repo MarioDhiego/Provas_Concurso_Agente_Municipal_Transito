@@ -43,11 +43,7 @@ Com relação às normas gerais de circulação e conduta estabelecidas pelo CTB
 O Código de Trânsito Brasileiro, Lei n. 9.503, de 23 de setembro de 1997, estabelece, em capítulo próprio, normas gerais de circulação e conduta. Considerando o disposto no código em pauta, analise as afirmativas a seguir e dê valores Verdadeiro (V) ou Falso (F).
 
 
-1. O condutor de veículo poderá fazer uso de
-buzina, desde que em toque breve e fora das
-áreas urbanas, quando for conveniente advertir
-a um condutor que se tem o propósito de
-ultrapassá-lo.
+1. O condutor de veículo poderá fazer uso de buzina, desde que em toque breve e fora das áreas urbanas, quando for conveniente advertir a um condutor que se tem o propósito de ultrapassá-lo.
 2. O Código de Trânsito Brasileiro veda
 expressamente o transporte de passageiros de
 motocicletas, motonetas e ciclomotores em
@@ -74,12 +70,29 @@ sequência correta de cima para baixo.
 :::
 
 
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+### **ITEM 3:** 
+
+Com base no Artigo 130 do CÛdigo de Trânsito Brasileiro, qual categoria de veículo está isenta do licenciamento anual, de acordo com o órgão executivo de trànsito do Estado ou do Distrito Federal onde o veículo está registrado? 
+
+1. ( ) Veículos de transporte público.
+2. ( ) Veículos automotores.
+3. ( ) Veículos de uso bélico.
+4. ( ) Reboques.
+5. ( ) Veículos de transferência de residência.
+
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito :  3**".
+:::
 
 
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
 :::
-
-
-

@@ -3,23 +3,23 @@ project:
   output-dir: docs
 
 book:
-  title: "**Bateria de Provas de Concurso Público**"
+  title: "**Provas de Concursos no Brasil 2023/2024**"
   reader-mode: true
-  subtitle: "**Público: Agentes Municipais de Trânsito**"
+  subtitle: "**Público Alvo: Agentes Municipais de Trânsito**"
   date: "18/03/2024"
   author:
   - name: "**Mário Diego Rocha Valente**"
     orcid: 0000-0001-7262-3336
-  - name: "**Analista de Trânsito**"
+  - name: "**Analista de Trânsito/DETRAN-PA**"
   - name: "**mario.valente@detran.pa.gov.br**"
   - name: "**Contato: +55 (91) 980607471**"
     corresponding: true
 
   page-footer:
     left: |
-      Copyright: VALENTE - 2024
+      Copyright: (VALENTE, 2024)
     right: |
-      Construído <a href="https://quarto.org/">Pacote Quarto no R4.3</a>.
+      Construído com pacote <a href="https://quarto.org/"> Quarto no <a href="https://cran.r-project.org/"> R 4.3 </a>.
   cover-image: fiscalização1.jpg
   favicon: fiscalização1.jpg
   site-url: https://www.detran.pa.gov.br/
