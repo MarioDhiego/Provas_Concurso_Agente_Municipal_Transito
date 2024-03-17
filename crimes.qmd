@@ -1,0 +1,66 @@
+
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+  
+  
+# CTB - CAP XIX
+## Dos Crimes de Trânsito
+
+
+### **ITEM 1:** 
+  
+O Art. 165 do Código de Trânsito Brasileiro determina a natureza da infração, a penalidade e as medidas administrativas relativas a dirigir sob a influência de álcool ou de qualquer outra substância psicoativa que determine dependência. Nessa condição, ao condutor que infringiu esse artigo, será aplicada como penalidade:
+
+1. ( ) multa, com fator multiplicador de 10, apenas.
+2. ( ) suspensão do direito de dirigir por 12 meses, apenas.
+3. ( ) multa, com fator multiplicador de 10, e suspensão do direito de dirigir por 12 meses.
+4. ( ) recolhimento do documento de habilitação, apenas.
+5. ( ) recolhimento do documento de habilitação e retenção do
+veículo.
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito :  3**".
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::  
+  
+  
+
+### **ITEM 2:**  
+  
+É considerada crime de trânsito a condução de veículo automotor com capacidade psicomotora alterada em razão da influência de álcool.
+
+Essa conduta pode ser constatada observando-se uma
+concentração da substância, em etilômetro e descontando-se o
+erro máximo admissível do medidor, igual ou superior a  
+
+1. 0.00mg/L.
+2. 0.18mg/L.
+3. 0.34dg/L.
+4. 0.34mg/L.
+5. 0.68dg/L.
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito :  4**".
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::

@@ -36,6 +36,7 @@ book:
     - summary.qmd
     - pedestre.qmd
     - Capitulo3.qmd
+    - crimes.qmd
     - Anexo1.qmd
 comments:
   hypothesis: true

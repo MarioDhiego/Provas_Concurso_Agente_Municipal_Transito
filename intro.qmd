@@ -211,6 +211,11 @@ De acordo com o Código de Trânsito Brasileiro (CTB), compete às juntas admini
 
 Marque a opção que apresenta a sequência CORRETA.
 
+1. ( ) V-V-F-F-V
+2. ( ) V-V-V-F-F
+3. ( ) V-V-F-V-F
+4. ( ) F-V-F-V-F
+
 ::: {.callout-tip collapse="true"}
 "**Gabarito: V-V-F-V-F**".
 :::
