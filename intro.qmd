@@ -223,3 +223,83 @@ Marque a opção que apresenta a sequência CORRETA.
 :::
 
 
+
+### **ITEM 10:** 
+
+O Código de Trânsito Brasileiro, Lei n. 9.503, de
+23 de setembro de 1997, estabelece a
+competência dos Conselhos Estaduais de
+Trânsito (Cetran) e do Conselho de Trânsito do
+Distrito Federal (Contrandife). Diante do
+exposto, analise as afirmativas a seguir
+
+1. É competência do Cetran e do Contradife
+responder a consultas relativas à aplicação da
+legislação e dos procedimentos normativos de
+trânsito.
+2. É competência do Cetran e do Contradife
+estimular e orientar a execução de campanhas
+educativas de trânsito.
+3. É competência do Cetran e do Contradife
+fiscalizar o nível de emissão de poluentes e
+ruído produzidos pelos veículos automotores ou
+pela sua carga, além de dar apoio, quando
+solicitado, às ações específicas dos órgãos
+ambientais.
+4. É competência do Cetran e do Contradife indicar
+um representante para compor a comissão
+examinadora de candidatos portadores de
+deficiência física à habilitação para conduzir veículos automotores.
+
+
+Estão Corretas as Afirmativas:
+
+1. I,II e III.
+2. I,II e IV apenas.
+3. II,III e IV apenas.
+4. I,II e IV apenaS.
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 4**".
+:::
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+### **ITEM 11:** 
+
+Compete ____________ julgar os recursos
+interpostos pelos infratores, solicitar aos
+órgãos e entidades executivos de trânsito e
+executivos rodoviários informações
+complementares relativas aos recursos,
+objetivando uma melhor análise da situação
+recorrida, encaminhar aos órgãos e entidades
+executivos de trânsito e executivos
+rodoviários informações sobre problemas
+observados nas autuações e apontados em
+recursos, e que se repitam sistematicamente.
+Escolha a opção que preenche a lacuna:
+
+
+1. Ao CONTRAN.
+2. Ao SENATRAN.
+3. As JARI.
+4. Ao DETRAN
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito: 3**".
+:::
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+

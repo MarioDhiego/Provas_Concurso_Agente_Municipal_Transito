@@ -1,0 +1,70 @@
+
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+# CTB - CAP IV
+## Do Pedestres e Condutores de Veículos 
+  
+  
+### **ITEM 1:** 
+
+De acordo com o Código de Trânsito Brasileiro
+vigente, é **Proibido** ao Pedestre:
+
+1. Cruzar pistas de rolamento nos viadutos em
+qualquer circunstância.
+2. Cruzar pistas de rolamento nas pontes em qualquer circunstância.
+3. Cruzar pistas de rolamento nos túneis em qualquer circunstância.
+4. Permanecer ou andar nas pistas de rolamento,
+exceto para cruzá-las onde for permitido.
+5. Atravessar a via dentro das áreas de cruzamento, mesmo quando houver sinalização para
+esse fim.
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito :  4**".
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+### **ITEM 2:** 
+
+De acordo com o Código de Trânsito Brasileiro
+vigente, dirigir ameaçando os pedestres que estejam
+atravessando a via pública, ou os demais veículos,
+constitui-se em uma infração:
+
+1. Grave
+2. Gravíssima
+3. Média
+4. Leve
+5. Levíssima
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito :  2**".
+:::
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+

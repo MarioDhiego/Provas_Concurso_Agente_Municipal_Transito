@@ -32,9 +32,54 @@ Com relação às normas gerais de circulação e conduta estabelecidas pelo CTB
 :::
 
 
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+### **ITEM 2:** 
+
+O Código de Trânsito Brasileiro, Lei n. 9.503, de 23 de setembro de 1997, estabelece, em capítulo próprio, normas gerais de circulação e conduta. Considerando o disposto no código em pauta, analise as afirmativas a seguir e dê valores Verdadeiro (V) ou Falso (F).
+
+
+1. O condutor de veículo poderá fazer uso de
+buzina, desde que em toque breve e fora das
+áreas urbanas, quando for conveniente advertir
+a um condutor que se tem o propósito de
+ultrapassá-lo.
+2. O Código de Trânsito Brasileiro veda
+expressamente o transporte de passageiros de
+motocicletas, motonetas e ciclomotores em
+carro lateral acoplado aos veículos.
+3. A autoridade de trânsito com circunscrição sobre
+a via poderá autorizar a circulação de bicicletas
+no sentido contrário ao fluxo dos veículos
+automotores, desde que dotado o trecho com
+ciclofaixa.
+4. É livre a circulação de bicicletas nos passeios
+
+
+Assinale a alternativa que apresenta a
+sequência correta de cima para baixo.
+
+1. ( ) V-V-V-V
+2. ( ) F-V-F-V
+3. ( ) V-F-V-F
+4. ( ) F-F-V-V
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito :  3**".
+:::
+
+
 
 
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
 :::
+
+
+

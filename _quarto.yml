@@ -7,13 +7,13 @@ book:
   title: "**Provas de Concurso Público**"
   reader-mode: true
   subtitle: "**Agentes Municipais de Trânsito**"
-  date: "13/03/2024"
+  date: "16/03/2024"
   author:
   - name: "**Mário Diego Rocha Valente**"
     orcid: 0000-0001-7262-3336
-  - name: "**Instrutor de Trânsito**"
+  - name: "**Analista de Trânsito**"
   - name: "**mario.valente@detran.pa.gov.br**"
-  - name: "**Pix: 91 980607471**"
+  - name: "**Contato: +55 (91) 980607471**"
     corresponding: true
 
   page-footer:
@@ -34,6 +34,7 @@ book:
     - index.qmd
     - intro.qmd
     - summary.qmd
+    - pedestre.qmd
     - Capitulo3.qmd
     - Anexo1.qmd
 comments:

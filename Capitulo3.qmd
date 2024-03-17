@@ -81,3 +81,41 @@ e penais cabíveis
 ::: {.progress-bar style="width: 100%;"}
 :::
 :::
+
+
+### **ITEM 4:** 
+
+
+As crianças com idade inferior a
+_____________ anos que não tenham atingido
+________________________ de altura devem
+ser transportadas nos bancos traseiros, em
+dispositivo de retenção adequado para cada
+idade, peso e altura, salvo exceções
+relacionadas a tipos específicos de veículos
+regulamentadas pelo Contran. Escolha a
+opção que preenche corretamente e
+respectivamente as lacunas deixadas no
+texto:
+
+1. ( ) 07 (sete), 1,30 m (um metro e trinta
+centímetros).
+2. ( ) 08 (oito), 1,40 m (um metro e quarenta
+centímetros).
+3. ( ) 10 (dez), 1,45 m (um metro e quarenta e
+cinco centímetros).
+4. ( ) 11 (onze), 1,50 m (um metro e cinquenta
+centímetros).
+5. ( ) 12 (doze), 1,60 m (um metro e sessenta
+centímetros).
+
+
+
+::: {.callout-tip collapse="true"}
+"**Gabarito : 3**".
+:::
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
